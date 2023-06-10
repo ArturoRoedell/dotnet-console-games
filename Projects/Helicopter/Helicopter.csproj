@@ -5,4 +5,9 @@
 		<ImplicitUsings>disable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 	</PropertyGroup>
+	<ItemGroup>
+	  <Reference Include="FileUtilitiesXT.LibraryV1.0.0.1">
+	    <HintPath>FileUtilitiesXT.LibraryV1.0.0.1.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
 </Project>

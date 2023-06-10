@@ -6,6 +6,7 @@
 		<Nullable>enable</Nullable>
 	</PropertyGroup>
 	<ItemGroup>
+		<PackageReference Include="ArturoRoedell.Util.FileUtilitiesXT" Version="1.0.0" />
 		<PackageReference Include="Towel" Version="1.0.40" />
 	</ItemGroup>
 </Project>
